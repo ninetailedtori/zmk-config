@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\config\\boards",
+    "\\config\\boards\\arm",
+    "\\config\\boards\\arm\\BobaSplit"
+  ],
+  "SelectedNode": "\\config\\boards\\arm\\BobaSplit\\board.cmake",
+  "PreviewInSolutionExplorer": false
+}
